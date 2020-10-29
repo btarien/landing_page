@@ -1,0 +1,26 @@
+.footer {
+  background: #2c2b2b;
+  height: 200px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.fab {
+  color: #1cde87;
+  margin: 10px;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.footer p {
+  color: gray;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+}

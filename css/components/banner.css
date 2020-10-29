@@ -1,0 +1,27 @@
+.banner {
+  background: rgba(0, 0, 0, .5) url("https://source.unsplash.com/ieic5Tq8YMk");
+  background-blend-mode: darken;
+  height: 75vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.header-container p {
+  color: gray;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.header-container .apply {
+  background: #1cde87;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 40px;
+}
